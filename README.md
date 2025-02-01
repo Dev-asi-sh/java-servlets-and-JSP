@@ -73,7 +73,7 @@ Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/reg_db
 
 ### **🎨 Registration Page**
 ![Registration Form](your-screenshot-url)
-
+<img width="960" alt="Image" src="https://github.com/user-attachments/assets/01af97a4-ba60-4c6d-9498-ed51d6f579e5" />
 ### **📝 User Registered Successfully**
 ![Success Message](your-screenshot-url)
 
